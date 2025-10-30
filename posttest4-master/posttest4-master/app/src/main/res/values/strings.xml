@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ContohSpinner</string>
+
+    <!-- daftar item spinner -->
+    <string-array name="buah_array">
+        <item>Apel</item>
+        <item>Jeruk</item>
+        <item>Mangga</item>
+        <item>Pisang</item>
+    </string-array>
+</resources>
